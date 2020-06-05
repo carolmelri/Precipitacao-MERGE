@@ -1,4 +1,4 @@
-# Precipita-o-MERGE
+# Precipitação MERGE
 Análise dos dados de precipitação do produto MERGE para a minha área de estudo 
 
 * Os produtos diários foram lidos e o valor de precipitação acumulado em cada mês foi calculado (ex em 2002 - Plot e acumulados mensais.ipynb).
