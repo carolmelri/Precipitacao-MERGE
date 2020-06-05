@@ -2,7 +2,7 @@
 Análise dos dados de precipitação do produto MERGE para a minha área de estudo 
 
 * Os produtos diários foram lidos e o valor de precipitação acumulado em cada mês foi calculado (ex em 2002 - Plot e acumulados mensais.ipynb).
-Esse procedimento foi realizado para todos os anos até 2017.
+Esse procedimento foi realizado de 2002 a 2017.
 
 * Os datasets gerados após o cálculo dos acumulados mensais foram unidos num só ( MERGE.ipynb)
 
